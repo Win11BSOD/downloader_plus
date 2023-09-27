@@ -11,7 +11,7 @@ setup(
     packages=['downloader_plus'],
     url='https://space.bilibili.com/1933399514?spm_id_from=333.788.0.0',
     author='Guo Minghao',
-    author_email='qu11182021@outlook.com',
+    author_email='qu20121118@yeah.net',
     long_description=long_description,
     long_description_content_type="text/markdown"
 )
